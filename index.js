@@ -237,28 +237,28 @@ list.add(5);
 
 list.print();
 
-// list.removeFrom(1);
+list.removeFrom(1);
 
-// list.print();
+list.print();
 
-// list.reverse();
+list.reverse();
 
-// list.print();
+list.print();
 
-// list.insertBefore(9, 2);
+list.insertBefore(9, 2);
 
-// list.print()
+list.print()
 
-// list.insertAfter(9, 2);
+list.insertAfter(9, 2);
 
-// list.print()
+list.print()
 
-// list.removeByData(3)
+list.removeByData(3)
 
-// list.print()
+list.print()
 
-// console.log(list.isEmpty())
+console.log(list.isEmpty())
 
-// console.log(list.size())
+console.log(list.size())
 
 console.log(list.isPalidrome())
